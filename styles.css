@@ -18,6 +18,10 @@ body {
   h1 {
     font-size: 24px;
     margin-bottom: 20px;
+    background-color: #00bfff; /* พื้นหลังสีฟ้า */
+    color: white; /* สีตัวอักษรเป็นสีขาว */
+    padding: 10px;
+    border-radius: 5px;
   }
   
   #display {
